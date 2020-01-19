@@ -25,11 +25,14 @@ header{
 }
 
 #image{
-	margin: 0;
-	padding: 0;
+	display: block;
+	margin: auto;
 	max-width: 100%;
 	height: auto;
 	border-radius: 10px;
+}
+#main{
+	margin: auto;
 }
 
 #title{
