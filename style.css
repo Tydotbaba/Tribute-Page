@@ -1,0 +1,23 @@
+body{
+	background: rgba(10, 102, 13, 0.44);
+	/*padding: 20px;*/
+	width: 100%;
+	display: grid;
+	justify-content: center;
+}
+
+header{
+
+}
+
+#image{
+	margin: auto;
+	width: 100%;
+	height: auto;
+}
+
+#title{
+	text-align: center;
+	width: 100%;
+	background-image: linear-gradient(rgba(10, 100, 10, 0.2), #10fcea) 
+}
