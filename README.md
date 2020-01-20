@@ -1,7 +1,7 @@
 <h1> Tribute-Page </h1>
 
 
-<h2> A tribute page for Alexandra Bell </h2>
+<h2> A tribute page for Alexander Graham Bell </h2>
 
 The aim of this project is to build a tribute page. 
 This is my solution to the <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page">freecodecamp's </a> 
